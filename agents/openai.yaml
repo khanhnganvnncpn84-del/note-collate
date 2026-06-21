@@ -1,0 +1,6 @@
+﻿interface:
+  display_name: "笔记整理 (NoteCollate)"
+  short_description: "零散笔记→结构化复习笔记"
+  default_prompt: "Use $note-collate to transform my raw course notes into structured revision-ready Markdown."
+policy:
+  allow_implicit_invocation: true
